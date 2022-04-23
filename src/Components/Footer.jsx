@@ -4,7 +4,7 @@ import style from './Footer.module.css'
 const Footer = (props) => {
   return (
     <footer className={style.footer}>
-      <h1>Footer</h1>
+      <p>&copy; Alguns direitos reservados</p>
     </footer>
   )
 }
