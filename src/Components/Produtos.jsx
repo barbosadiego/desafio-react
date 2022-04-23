@@ -3,7 +3,7 @@ import style from './Produtos.module.css'
 
 const Produtos = (props) => {
   return (
-    <div>
+    <div className={style.produto}>
       <h1>Produtos</h1>
     </div>
   )
